@@ -1,3 +1,38 @@
+body {
+  font-size: 100%;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: 2em;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-size: 1.5em;
+}
+
+h3 {
+  font-family: Georgia, serif;
+  font-size: 1.25em;
+}
+
 p {
-font: 16px sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 1em;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+A { 
+  color:#660000; 
+  text-decoration:none; 
+  font-weight:600; 
+}
+
+A:hover {
+  color: red;
 }
