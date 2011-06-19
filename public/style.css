@@ -22,11 +22,6 @@ p {
   font-size: 1em;
 }
 
-.container {
-  width: 960px;
-  margin: 0 auto;
-}
-
 A { 
   color:#660000; 
   text-decoration:none; 
