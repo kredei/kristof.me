@@ -8,8 +8,8 @@ get '/resume' do
   erb :resume
 end
 
-get '/intro' do
-  erb :intro
+get '/about' do
+  erb :about
 end
 
 get '/code' do

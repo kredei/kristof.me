@@ -1,5 +1,5 @@
-window.onload=function() { $('#content').load('/intro'); }
+window.onload=function() { $('#content').load('/about'); }
 
-$('#intro').click(function() { $('#content').load('/intro'); } );
+$('#about').click(function() { $('#content').load('/about'); } );
 $('#resume').click(function() { $('#content').load('/resume'); } );
 $('#code').click(function() { $('#content').load('/code'); } );
