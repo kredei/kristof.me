@@ -1,3 +1,4 @@
+# This is a Sinatra app.
 require 'sinatra'
 
 get '/' do
